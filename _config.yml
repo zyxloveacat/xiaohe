@@ -1,0 +1,8 @@
+title: Xiaohe
+description: 一个可以用于开发个人博客、门户网站、在线慕课的框架源码。
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
